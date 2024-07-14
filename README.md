@@ -10,6 +10,7 @@ i've evolved into the MERN Stack, including React, Express.js, Node.js, and Mong
 Alongside Next.js And TaillWindCss And Other web technologies, I have some experience in PHP and SQL.
 Since 2022, I've been taking on freelancing projects,
 sharpening my skills, and collaborating effectively with clients.
+
 I hold a degree in Computer Science from a reputable institution in Algeria,
 which laid a strong foundation for my career.
 
