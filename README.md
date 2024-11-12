@@ -6,8 +6,8 @@
 My name is Kerroucha Abdelbari Sarim, known as SarimDev/SarimDx,
 and I'm a passionate software engineer, web developer, and freelancer. I started as a Front-End Developer,
 Mastering HTML, CSS, and JavaScript. Then I expanded into Back-End Development,
-i've evolved into the MERN Stack, including React, Express.js, Node.js, and MongoDB.
-Alongside Next.js And TaillWindCss And Other web technologies, I have some experience in PHP and SQL.
+I've evolved into the MERN Stack, including React, Express.js, Node.js, and MongoDB.
+Alongside Next.js TaillWindCss And Other web technologies, I have some experience in PHP and SQL.
 Since 2022, I've been taking on freelancing projects,
 sharpening my skills, and collaborating effectively with clients.
 
