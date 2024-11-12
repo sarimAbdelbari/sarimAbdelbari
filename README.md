@@ -14,9 +14,9 @@ sharpening my skills, and collaborating effectively with clients.
 I hold a degree in Computer Science from a reputable institution in Algeria,
 which laid a strong foundation for my career.
 
-Driven by a desire to create meaningful technology solutions, I'm committed to continuous learning and eager to embrace new challenges as I grow both personally and professionally. I'm excited about contributing to innovative projects and making a positive impact in the tech world.
+Driven by a desire to create meaningful technology solutions, I'm committed to continuous learning and eager to embrace new challenges as I grow personally and professionally. I'm excited about contributing to innovative projects and positively impacting the tech world.
 
----
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### 🧰 Languages and Tools
 
