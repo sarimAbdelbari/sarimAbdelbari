@@ -31,6 +31,14 @@ Driven by a desire to create meaningful technology solutions, I'm committed to c
 <img align="left" alt="React" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
                              
+<img align="left" alt="Typescript.js" width="30px" style="padding-right:10px;"
+  src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
+  
+<img align="left" alt="Typescript.js" width="30px" style="padding-right:10px;"
+  src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" />
+
+
+  
 <img align="left" alt="Express.js" width="30px" style="padding-right:10px; background-color:white;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
          
@@ -41,6 +49,7 @@ Driven by a desire to create meaningful technology solutions, I'm committed to c
           
 <img align="left" alt="MongoDb.js" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  
           
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
