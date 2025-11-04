@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kerroucha Abdelbari Sarim</h1>
 
 <p align="center">
-  <em>Full Stack Web Developer | Software Engineer | MERN Stack Specialist</em>
+  <em>Full Stack Web Developer | Software Engineer </em>
 </p>
 
 <p align="center">
