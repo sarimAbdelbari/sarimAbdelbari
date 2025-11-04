@@ -81,10 +81,10 @@ I'm a passionate **Full Stack Developer** with **2+ years of experience** specia
 Algeria's premier tech agency specializing in creating software solutions for startups and businesses.
 - **Tech Stack**: React, Next.js, Tailwind CSS, Framer Motion
 - **Role**: Lead Developer
-- [🔗 Live Demo](https://www.fikrat.tech/) | [💻 Source Code](https://github.com/sarimAbdelbari/Fikrat-Agency)
+- [🔗 Live Demo](https://www.fikrat.tech/) | [💻 Source Code](https://github.com/sarimAbdelbari/Fikrat-Tech)
 
 ### 📄 [The Pyramid Documentary](https://github.com/sarimAbdelbari/Pyramid-Documentary)
-Full-stack Content Management System for managing firm's documents and ISO documentation.
+Full-stack Content Management System for managing the firm's documents and ISO documentation.
 - **Tech Stack**: React.js, Node.js, Express.js, MongoDB
 - **Features**: Document management, user authentication, role-based access
 - [💻 Source Code](https://github.com/sarimAbdelbari/Pyramid-Documentary)
