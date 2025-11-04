@@ -89,16 +89,16 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
+
+<div align="start">
+  <img  src="https://github-readme-stats.vercel.app/api?username=sarimAbdelbari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f" alt="GitHub Stats"/>
+ 
+</div>
 <div align="start">
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarimAbdelbari&theme=github_dark&hide_border=false" alt="GitHub Streak" 
   />
 </div>
-<div align="start">
-  <img  src="https://github-readme-stats.vercel.app/api?username=sarimAbdelbari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f" alt="GitHub Stats"/>
- 
-</div>
-
 <div align="start">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimAbdelbari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" alt="Top Languages"/>
 
