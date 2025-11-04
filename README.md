@@ -111,12 +111,14 @@ Modern portfolio website with an advanced loading system and smooth animations.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=sarimabdelbari&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+</p>
+<p align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarimAbdelbari&theme=github_dark&hide_border=false" alt="GitHub Streak" height="170"/>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimAbdelbari&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
 </p>
 
