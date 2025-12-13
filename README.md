@@ -95,14 +95,10 @@
  
 </div>
 <div align="start">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarimAbdelbari&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SarimAbdelbari&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarimAbdelbari&theme=github_dark&hide_border=false" alt="GitHub Streak" 
-  />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarimAbdelbari&theme=github_dark&hide_border=false" alt="GitHub Streak" />
 </div>
 <div align="start">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimAbdelbari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" alt="Top Languages"/>
-
 </div>
 <div align="start">
   
