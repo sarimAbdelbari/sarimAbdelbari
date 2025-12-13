@@ -95,7 +95,8 @@
  
 </div>
 <div align="start">
- 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarimAbdelbari&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SarimAbdelbari&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarimAbdelbari&theme=github_dark&hide_border=false" alt="GitHub Streak" 
   />
 </div>
