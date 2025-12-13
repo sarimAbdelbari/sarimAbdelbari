@@ -46,7 +46,7 @@
 
 - 🏆 **Achievement**: Capstone Project scored **17.5/20** - LinkedIn-inspired networking platform
 
-- 🌱 **Expertise**: React, Next.js, Node.js, Express, PostgreSQL, MongoDB, TypeScript
+- 🌱 **Expertise**: React, Next.js, Node.js, Express, PostgreSQL, MySQL Server, Neon, MongoDB, TypeScript
 
 - 💡 **Freelancer** since 2022, delivering high-quality web solutions
 
