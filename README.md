@@ -90,9 +90,9 @@ Full Stack Developer with **2+ years** of professional experience building enter
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sarimAbdelbari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6af7&icon_color=7c6af7&text_color=a0aec0&count_private=true" alt="GitHub Stats"/>
+  <img height="160" src="./profile/stats.svg" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimAbdelbari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6af7&text_color=a0aec0&langs_count=6" alt="Top Languages"/>
+  <img height="160" src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
