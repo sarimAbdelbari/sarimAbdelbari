@@ -72,17 +72,18 @@ Full Stack Developer with **2+ years** of professional experience building enter
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
+
 
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **[LazyQuery](https://lazy-query.online)** | Convert SQL/JSON/Prisma schemas into interactive ERD diagrams | React, TypeScript, React Flow, Vite |
-| **[Fikrat.tech](https://www.fikrat.tech/)** | Digital studio website for startup & business clients | Next.js, TypeScript, Framer Motion |
-| **[ParadiseGameDZ](https://paradisegamedz.com)** | Digital commerce platform for gaming/streaming subscriptions | Next.js, Supabase, Tailwind |
-| **[Pyramid Documentary](https://github.com/sarimAbdelbari/Pyramid-Documentary)** | Full-stack CMS for ISO documentation management | React, Node.js, MongoDB |
-| **[VitaLife Medical](https://www.vitalife-medical.dz/)** | Corporate medical website with responsive design & SEO | Next.js, Tailwind CSS |
+| **<a href="https://lazy-query.online" target="_blank">LazyQuery</a>** | Convert SQL/JSON/Prisma schemas into interactive ERD diagrams | React, TypeScript, React Flow, Vite |
+| **<a href="https://www.fikrat.tech/" target="_blank">Fikrat.tech</a>** | Digital studio website for startup & business clients | Next.js, TypeScript, Framer Motion |
+| **<a href="https://paradisegamedz.com" target="_blank">ParadiseGameDZ</a>** | Digital commerce platform for gaming/streaming subscriptions | Next.js, Supabase, Tailwind |
+| **<a href="https://github.com/sarimAbdelbari/Pyramid-Documentary" target="_blank">Pyramid Documentary</a>** | Full-stack CMS for ISO documentation management | React, Node.js, MongoDB |
+| **<a href="https://www.vitalife-medical.dz/" target="_blank">VitaLife Medical</a>** | Corporate medical website with responsive design & SEO | Next.js, Tailwind CSS |
+
 
 
 
