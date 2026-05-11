@@ -96,9 +96,8 @@ Full Stack Developer with **2+ years** of professional experience building enter
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarimAbdelbari&theme=github_dark&hide_border=true&background=0d1117&ring=7c6af7&fire=7c6af7&currStreakLabel=7c6af7" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sarimAbdelbari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7c6af7&fire=7c6af7&currStreakLabel=7c6af7" alt="GitHub Streak"/>
 </p>
-
 ---
 
 <p align="center">
