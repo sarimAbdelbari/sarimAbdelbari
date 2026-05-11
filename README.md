@@ -35,13 +35,12 @@
 
 Full Stack Developer with **2+ years** of professional experience building enterprise platforms, SaaS tools, and production web applications with modern JavaScript ecosystems.
 
-- 💼 &nbsp;Currently at **Groupe Chiali** — building internal DMS and GPAO production systems
-- 🏗️ &nbsp;Focus on **clean architecture**, secure API design, and scalable frontend interfaces
-- 🚀 &nbsp;Running **[Fikrat.tech](https://www.fikrat.tech/)** — a digital studio for startups & businesses
-- 🎓 &nbsp;B.Sc. Computer Science — Université Djillali Liabes (2020–2023)
-- 🌱 &nbsp;Currently deepening expertise in **TypeScript**, **system design**, and **Docker**
-- 📬 &nbsp;Open to Full Stack opportunities — remote-friendly
-
+- 💼 &nbsp; Currently at **Groupe Chiali**  building internal DMS and GPAO production systems
+- 🏗️ &nbsp; Focus on **clean architecture**, secure API design, and scalable frontend interfaces
+- 🎓 &nbsp; B.Sc. Computer Science  Université Djillali Liabes (2020–2023)
+- 🌱 &nbsp; Currently deepening expertise in **TypeScript**, **system design**, and **Docker**
+- 📬 &nbsp; Open to Full Stack opportunities,remote-friendly
+<!-- - 🚀 &nbsp; Running **[Fikrat.tech](https://www.fikrat.tech/)** a digital studio for startups & businesses -->
 <br clear="right"/>
 ---
 
@@ -101,7 +100,7 @@ Full Stack Developer with **2+ years** of professional experience building enter
 ---
 
 <p align="center">
-  <sub>💡 Open to full-stack roles and freelance collaborations — <a href="mailto:sarimabdelbari@gmail.com">let's talk</a></sub>
+  <sub>💡 Open to full-stack roles and freelance collaborations <a href="mailto:sarimabdelbari@gmail.com">let's talk</a></sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=40&section=footer" width="100%"/>
