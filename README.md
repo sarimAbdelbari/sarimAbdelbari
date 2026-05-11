@@ -26,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=sarimAbdelbari&label=Profile+Views&color=302b63&style=flat-square" alt="Profile Views"/>
 </p>
 
----
+
 
 ### 👨‍💻 About Me
 
@@ -42,7 +42,7 @@ Full Stack Developer with **2+ years** of professional experience building enter
 - 📬 &nbsp; Open to Full Stack opportunities,remote-friendly
 <!-- - 🚀 &nbsp; Running **[Fikrat.tech](https://www.fikrat.tech/)** a digital studio for startups & businesses -->
 <br clear="right"/>
----
+
 
 ### 🛠️ Tech Stack
 
@@ -84,7 +84,7 @@ Full Stack Developer with **2+ years** of professional experience building enter
 | **[Pyramid Documentary](https://github.com/sarimAbdelbari/Pyramid-Documentary)** | Full-stack CMS for ISO documentation management | React, Node.js, MongoDB |
 | **[VitaLife Medical](https://www.vitalife-medical.dz/)** | Corporate medical website with responsive design & SEO | Next.js, Tailwind CSS |
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -97,7 +97,7 @@ Full Stack Developer with **2+ years** of professional experience building enter
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sarimAbdelbari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7c6af7&fire=7c6af7&currStreakLabel=7c6af7" alt="GitHub Streak"/>
 </p>
----
+
 
 <p align="center">
   <sub>💡 Open to full-stack roles and freelance collaborations <a href="mailto:sarimabdelbari@gmail.com">let's talk</a></sub>
