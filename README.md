@@ -30,6 +30,9 @@
 
 ### 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+
 Full Stack Developer with **2+ years** of professional experience building enterprise platforms, SaaS tools, and production web applications with modern JavaScript ecosystems.
 
 - 💼 &nbsp;Currently at **Groupe Chiali** — building internal DMS and GPAO production systems
@@ -39,6 +42,7 @@ Full Stack Developer with **2+ years** of professional experience building enter
 - 🌱 &nbsp;Currently deepening expertise in **TypeScript**, **system design**, and **Docker**
 - 📬 &nbsp;Open to Full Stack opportunities — remote-friendly
 
+<br clear="right"/>
 ---
 
 ### 🛠️ Tech Stack
