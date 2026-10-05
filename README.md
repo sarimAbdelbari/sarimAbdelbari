@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Kerroucha%20Abdelbari%20Sarim&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20JavaScript%20%2F%20TypeScript%20%7C%20React%20%2F%20NextJs%20%7C%20Node.js%20%2F%20Nest.js&descAlignY=68&descAlign=50&descSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sarim%20Abdelbari%20Kerroucha&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20React%20%2F%20Next.js%20%7C%20Node.js%20%7C%20TypeScript&descAlignY=68&descAlign=50&descSize=14" width="100%"/>
 </div>
 
 <br/>
@@ -22,27 +22,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarimAbdelbari&label=Profile+Views&color=302b63&style=flat-square" alt="Profile Views"/>
-</p>
-
-
-
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+Full Stack Developer with about two years of professional experience building enterprise platforms, SaaS tools, and production web applications with React, Next.js, Node.js, and TypeScript.
 
-
-Full Stack Developer highly skilled in engineering enterprise platforms, SaaS tools, and production web applications within modern JavaScript ecosystems.
-
-- 💼 &nbsp; Currently at **Groupe Chiali**  building internal DMS and GPAO production systems
-- 🏗️ &nbsp; Focus on **clean architecture**, secure API design, and scalable frontend interfaces
-- 🎓 &nbsp; B.Sc. Computer Science  Université Djillali Liabes (2020–2023)
-- 🌱 &nbsp; Currently deepening expertise in **TypeScript**, **system design**, and **Docker**
-- 📬 &nbsp; Open to Full Stack opportunities,remote-friendly
-<!-- - 🚀 &nbsp; Running **[Fikrat.tech](https://www.fikrat.tech/)** a digital studio for startups & businesses -->
-<br clear="right"/>
-
+- 💼 &nbsp; **Groupe Chiali**: built an internal Document Management System and a production management platform (GPAO), deployed with multi-container Docker on Linux
+- 🛒 &nbsp; Built and operate **[Paradise Game DZ](https://paradisegamedz.com)**, a live commerce platform serving ~7.5K weekly active users
+- 🔐 &nbsp; Focus on secure API design (RBAC, JWT, OAuth), bilingual French/Arabic (RTL) interfaces, and real-time systems
+- 🎓 &nbsp; B.Sc. Computer Science, Université Djillali Liabès (2020–2023)
+- 🌱 &nbsp; Currently deepening: automated testing, CI/CD, and system design
+- 📬 &nbsp; Open to full-stack roles: remote, hybrid, or relocation
 
 ### 🛠️ Tech Stack
 
@@ -57,35 +46,34 @@ Full Stack Developer highly skilled in engineering enterprise platforms, SaaS to
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 **Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJs](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
 
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-f38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| **<a href="https://lazy-query.online" target="_blank">LazyQuery</a>** | Convert SQL/JSON/Prisma schemas into interactive ERD diagrams | React, TypeScript, React Flow, Vite |
-| **<a href="https://www.fikrat.tech/" target="_blank">Fikrat.tech</a>** | Digital studio website for startup & business clients | Next.js, TypeScript, Framer Motion |
-| **<a href="https://paradisegamedz.com" target="_blank">ParadiseGameDZ</a>** | Digital commerce platform for gaming/streaming subscriptions | Next.js, Supabase, Tailwind |
-| **<a href="https://github.com/sarimAbdelbari/Pyramid-Documentary" target="_blank">Pyramid Documentary</a>** | Full-stack CMS for ISO documentation management | React, Node.js, MongoDB |
-| **<a href="https://www.vitalife-medical.dz/" target="_blank">VitaLife Medical</a>** | Corporate medical website with responsive design & SEO | Next.js, Tailwind CSS |
-
-
-
+| **[Paradise Game DZ](https://paradisegamedz.com)** | Production commerce platform (~7.5K weekly active users): real-time order chat, multi-currency pricing, promotions, reviews, RBAC, bilingual FR/AR with RTL | Next.js, TypeScript, Supabase, PostgreSQL, Cloudflare R2 |
+| **[PlugNPretty](https://plugnpretty.com)** | Bilingual e-commerce platform: catalog with variants and promotions, guest and authenticated checkout, admin back office, SEO | Next.js, TypeScript, Supabase, Tailwind CSS |
+| **[LazyQuery](https://lazy-query.online)** | Open-source tool that converts SQL/JSON/Prisma schemas into interactive ERD diagrams | React, TypeScript, React Flow, Dagre, Vite |
+| **[Pyramid Documentary](https://github.com/sarimAbdelbari/Pyramid-Documentary)** | Full-stack CMS for ISO documentation management | React, Node.js, MongoDB |
+| **[Fikrat.tech](https://www.fikrat.tech/)** | Digital studio website for startup and business clients | Next.js, TypeScript, Framer Motion |
+| **[VitaLife Medical](https://www.vitalife-medical.dz/)** | Corporate medical website with responsive design and SEO | Next.js, Tailwind CSS |
 
 ### 📊 GitHub Stats
 
@@ -96,12 +84,7 @@ Full Stack Developer highly skilled in engineering enterprise platforms, SaaS to
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sarimAbdelbari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7c6af7&fire=7c6af7&currStreakLabel=7c6af7" alt="GitHub Streak"/>
-</p>
-
-
-<p align="center">
-  <sub>💡 Open to full-stack roles and freelance collaborations <a href="mailto:sarimabdelbari@gmail.com">let's talk</a></sub>
+  <sub>💡 Open to full-stack roles and freelance collaborations. <a href="mailto:sarimabdelbari@gmail.com">Let's talk</a></sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=40&section=footer" width="100%"/>
